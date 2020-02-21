@@ -14,3 +14,5 @@ Uses RandomRotation transformation on train set
 
 ---
 
+![accuracy](acc.png)
+
